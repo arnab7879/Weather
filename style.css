@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url("C:/Users/hp/Downloads/pexels-aaronburden-2449543.jpg");
+    background-image: url("pexels-aaronburden-2449543.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -19,9 +19,9 @@ body {
     max-width: 470px;
     background: linear-gradient(135deg, #c2c2d1, #605b81);
     color: #fff;
-    margin: 100px auto 0;
-    border-radius: 20px;
-    padding: 40px 35px;
+    margin: 10vh auto 0;
+    border-radius: 2vh;
+    padding: 4vh 3.5vh;
     text-align: center;
 }
 .search{
